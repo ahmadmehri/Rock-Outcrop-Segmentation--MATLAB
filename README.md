@@ -1,2 +1,6 @@
 # Rock-Outcrop-Segmentation--MATLAB
 Interactive MATLAB GUI for real-time rock segmentation using VGG16-UNet re-trained network with adjustable mask post-processing
+<img width="1395" height="836" alt="image" src="https://github.com/user-attachments/assets/e94dcf0b-399e-4aba-95ab-fc52d35d978f" />
+
+This MATLAB application provides an intuitive graphical interface for rock segmentation in geological images using a pre-trained VGG16-UNet deep learning model. The GUI features real-time parameter adjustment capabilities, allowing users to fine-tune post-processing settings and immediately visualize the results. Key features include border cropping, component filtering, Gaussian smoothing, transparency control, and comprehensive zoom/pan functionality for detailed image analysis.
+The interface displays four synchronized views: original image, raw segmentation mask, processed final mask, and overlay visualization. Users can load custom images, adjust segmentation parameters through interactive sliders, export results, and utilize advanced zoom controls with mouse wheel support and context menus. The tool is designed for researchers and professionals working in geological image analysis, providing both accessibility for quick assessments and precision for detailed parameter optimization.
