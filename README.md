@@ -11,7 +11,8 @@ This MATLAB application provides an intuitive graphical interface for rock segme
 The interface displays four synchronized views: original image, raw segmentation mask, processed final mask, and overlay visualization. Users can load custom images, adjust segmentation parameters through interactive sliders, export results, and utilize advanced zoom controls with mouse wheel support and context menus. The tool is designed for researchers and professionals working in geological image analysis, providing both accessibility for quick assessments and precision for detailed parameter optimization.
 
 RockPixelPicker:
-Download latest version: https://github.com/ahmadmehri/Rock-Outcrop-Segmentation--MATLAB/releases/tag/rocksegmentation
+Download latest version:
+https://github.com/ahmadmehri/Rock-Outcrop-Segmentation--MATLAB/releases/tag/rocksegmentation
 
 <img width="1861" height="983" alt="image" src="https://github.com/user-attachments/assets/b7230be1-ed8f-45ad-99ec-542dba2498df" />
 
