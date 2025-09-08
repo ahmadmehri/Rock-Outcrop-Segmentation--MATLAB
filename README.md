@@ -16,5 +16,8 @@ https://github.com/ahmadmehri/Rock-Outcrop-Segmentation--MATLAB/releases/tag/roc
 
 <img width="1861" height="983" alt="image" src="https://github.com/user-attachments/assets/b7230be1-ed8f-45ad-99ec-542dba2498df" />
 
+<img width="1869" height="986" alt="image" src="https://github.com/user-attachments/assets/98bd0960-bbc2-4249-84cd-8ae814b4f22f" />
+
+
 <img width="1867" height="985" alt="image" src="https://github.com/user-attachments/assets/39e07840-ae4d-48b7-9c4f-1144001cbc81" />
 
