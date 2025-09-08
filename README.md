@@ -1,7 +1,7 @@
 # Rock-Outcrop-Segmentation--MATLAB
 *Interactive MATLAB GUI for real-time rock segmentation using VGG16-UNet re-trained network with adjustable mask post-processing*
 
-Download latest version: sha256:35dd2db4b2d20ebdb4f5abed376cdd35fe8dae2d078b0f28a5fc4b8c4589abde
+Download latest version: https://github.com/ahmadmehri/Rock-Outcrop-Segmentation--MATLAB/releases/tag/rocksegmentation
 
 <img width="1395" height="836" alt="image" src="https://github.com/user-attachments/assets/e94dcf0b-399e-4aba-95ab-fc52d35d978f" />
 
